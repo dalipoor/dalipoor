@@ -31,7 +31,7 @@ I build tools that turn financial data into useful insights, with a focus on ana
 
 ## Tools
 
-Python · SQL · PostgreSQL · Java · Flask · pandas · Git · GitHub Actions · Stripe · AWS Lightsail · Render · Cloudflare · Linux
+Python · SQL · PostgreSQL · Java · Flask · pandas · Git · GitHub Actions · Stripe · AWS Lightsail · Render · Cloudflare ·
 
 ## Interests
 
